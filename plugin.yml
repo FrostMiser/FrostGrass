@@ -1,0 +1,4 @@
+name: FrostGrass
+main: frostGrass.FrostGrass
+version: 1.0
+commands:
